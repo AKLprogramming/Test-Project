@@ -7,7 +7,7 @@ public class q1 {
 		System.out.println("Key in an integer: ");
 
 		Scanner sc = new Scanner(System.in);
-
+		Math.
 		int test = sc.nextInt();
 		// binary
 		// octal
@@ -24,7 +24,7 @@ public class q1 {
 	}
 
 	public static String octal(double integer) {
-
+		
 		String text = "";
 		double result = 0;
 		double power = power(integer, 0.0);
