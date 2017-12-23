@@ -5,7 +5,7 @@ public class q1 {
 
 	public static void main(String[] args) {
 		System.out.println("Key in an integer: ");
-
+	
 		Scanner sc = new Scanner(System.in);
 		Math.
 		int test = sc.nextInt();

@@ -8,7 +8,8 @@ public class q4{
 		Scanner sc = new Scanner(System.in);
 		double input = sc.nextDouble();
 		
-
+		
+		
 	}
 
 }
