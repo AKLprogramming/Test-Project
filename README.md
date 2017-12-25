@@ -1,8 +1,8 @@
-# Test Project
+# Purpose
 
-hello
+This git serves as a purpose to store all exercises from programming textbooks
 
 
 # Content
 
-new content 
+ 
