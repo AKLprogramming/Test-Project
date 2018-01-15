@@ -1,6 +1,5 @@
 #include <iostream>
 
-
 using namespace std;
 
 int main(){
@@ -9,7 +8,6 @@ int main(){
     //dime = 10 cents
     //nickels = 5 cents
     //pennies = 1 cent
-
 
     double convertQuartersToPennies = 25 * 1;
     double convertDimeToPennies = 10 * 1;
@@ -26,10 +24,17 @@ int main(){
     cout << "Select :" ;
     cin >> option;
 
-    cout << "Select the amount of "
+    cout << "Select the amount of coin you wanted to convert: " << endl;
 
-    if(option == 1)
+    if(option == 1){
+
+    }else if(option == 2){
         
+    }else if(option == 3){
 
+    }else if(option == 4){
+        
+    }
+    
     return 0;
 }
